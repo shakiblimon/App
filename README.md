@@ -1,5 +1,5 @@
 # Python App
-Here some app that i create b using python & its libraries , Those are following.
+Here some app that i create by using python & its libraries , Those are following.
 
 <h3> Web Crawler</h3>
 
